@@ -1,0 +1,77 @@
+@import "../../styles/mixins/media.scss";
+
+.header {
+  background-color: var(--accent);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60px;
+
+  @include tablet {
+    height: 75px;
+  }
+
+  @include desktop {
+    height: 150px;
+  }
+}
+
+.container {
+  width: 328px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  @include largeMobile {
+    min-width: 448px;
+  }
+
+  @include tablet {
+    min-width: 708px;
+  }
+
+  @include largeTablet {
+    min-width: 940px;
+  }
+
+  @include desktop {
+    min-width: 1230px;
+  }
+}
+
+.logoContainer {
+  display: flex;
+  align-items: center;
+}
+
+.burgerMenu {
+  margin-right: 10px;
+
+  @include tabletAndDesktop {
+    margin-right: 30px;
+  }
+}
+
+.logo {
+  @include tabletAndDesktop {
+    width: 138px;
+    height: 32px;
+  }
+}
+
+.input {
+  min-width: 250px;
+  display: none;
+
+  @include largeTablet {
+    min-width: 480px;
+  }
+
+  @include desktop {
+    min-width: 797px;
+  }
+
+  @include tabletAndDesktop {
+    display: flex;
+  }
+}

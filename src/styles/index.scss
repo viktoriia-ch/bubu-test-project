@@ -1,0 +1,53 @@
+:root {
+  --accent: #d03664;
+  --black: #000000;
+  --white: #ffffff;
+
+  --fontFamily: "Comfortaa";
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: "Comfortaa", serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Manrope", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+input,
+select {
+  font: inherit;
+}
