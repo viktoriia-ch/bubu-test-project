@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/33.688de36a.chunk.js","mappings":"qHAIA,UAJoB,WAEpB,C","sources":["pages/ProductPage/ProductPage.jsx"],"sourcesContent":["const ProductPage = () => {\r\n  return;\r\n};\r\n\r\nexport default ProductPage;\r\n"],"names":[],"sourceRoot":""}

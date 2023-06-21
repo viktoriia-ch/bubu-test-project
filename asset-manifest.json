@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/bubu-test-project/static/css/main.a5669ca8.css",
+    "main.js": "/bubu-test-project/static/js/main.e515f495.js",
+    "static/js/680.a2b5f38f.chunk.js": "/bubu-test-project/static/js/680.a2b5f38f.chunk.js",
+    "static/js/270.5226e354.chunk.js": "/bubu-test-project/static/js/270.5226e354.chunk.js",
+    "static/js/33.688de36a.chunk.js": "/bubu-test-project/static/js/33.688de36a.chunk.js",
+    "static/js/589.b3aa11fd.chunk.js": "/bubu-test-project/static/js/589.b3aa11fd.chunk.js",
+    "static/js/664.a30a8b9d.chunk.js": "/bubu-test-project/static/js/664.a30a8b9d.chunk.js",
+    "static/js/794.60601582.chunk.js": "/bubu-test-project/static/js/794.60601582.chunk.js",
+    "static/media/logo.svg": "/bubu-test-project/static/media/logo.f05fa3ec618aca007a137bcfcb90327c.svg",
+    "static/media/balance.svg": "/bubu-test-project/static/media/balance.3c57e561b42549e734c15861bac7ebf8.svg",
+    "static/media/cart.svg": "/bubu-test-project/static/media/cart.40a56b8d856e933e397ed71df4272e48.svg",
+    "index.html": "/bubu-test-project/index.html",
+    "static/media/like.svg": "/bubu-test-project/static/media/like.9177166212029b632aad27b59bc8c690.svg",
+    "static/media/search.svg": "/bubu-test-project/static/media/search.45c671cfe862bbfebd181722e4585fca.svg",
+    "static/media/menu.svg": "/bubu-test-project/static/media/menu.78e4be8a210a7603edee4e8e84f7bb51.svg",
+    "main.a5669ca8.css.map": "/bubu-test-project/static/css/main.a5669ca8.css.map",
+    "main.e515f495.js.map": "/bubu-test-project/static/js/main.e515f495.js.map",
+    "680.a2b5f38f.chunk.js.map": "/bubu-test-project/static/js/680.a2b5f38f.chunk.js.map",
+    "270.5226e354.chunk.js.map": "/bubu-test-project/static/js/270.5226e354.chunk.js.map",
+    "33.688de36a.chunk.js.map": "/bubu-test-project/static/js/33.688de36a.chunk.js.map",
+    "589.b3aa11fd.chunk.js.map": "/bubu-test-project/static/js/589.b3aa11fd.chunk.js.map",
+    "664.a30a8b9d.chunk.js.map": "/bubu-test-project/static/js/664.a30a8b9d.chunk.js.map",
+    "794.60601582.chunk.js.map": "/bubu-test-project/static/js/794.60601582.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5669ca8.css",
+    "static/js/main.e515f495.js"
+  ]
+}
