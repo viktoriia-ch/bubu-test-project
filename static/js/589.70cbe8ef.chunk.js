@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkbubu_test_project=self.webpackChunkbubu_test_project||[]).push([[589],{589:function(t,u,e){e.r(u);u.default=function(){}}}]);
-//# sourceMappingURL=589.70cbe8ef.chunk.js.map
