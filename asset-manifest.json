@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/bubu-test-project/static/css/main.eb07be7d.css",
-    "main.js": "/bubu-test-project/static/js/main.ba996984.js",
-    "static/css/788.5f839f05.chunk.css": "/bubu-test-project/static/css/788.5f839f05.chunk.css",
-    "static/js/788.0df9cd71.chunk.js": "/bubu-test-project/static/js/788.0df9cd71.chunk.js",
+    "main.css": "/bubu-test-project/static/css/main.ba6143e8.css",
+    "main.js": "/bubu-test-project/static/js/main.d8f1b8f0.js",
+    "static/css/465.c435f03a.chunk.css": "/bubu-test-project/static/css/465.c435f03a.chunk.css",
+    "static/js/465.8c01be82.chunk.js": "/bubu-test-project/static/js/465.8c01be82.chunk.js",
     "static/js/270.ed769760.chunk.js": "/bubu-test-project/static/js/270.ed769760.chunk.js",
     "static/js/33.aa06554e.chunk.js": "/bubu-test-project/static/js/33.aa06554e.chunk.js",
-    "static/css/946.1cb7cbb2.chunk.css": "/bubu-test-project/static/css/946.1cb7cbb2.chunk.css",
+    "static/css/946.0f860270.chunk.css": "/bubu-test-project/static/css/946.0f860270.chunk.css",
     "static/js/946.15b1a67e.chunk.js": "/bubu-test-project/static/js/946.15b1a67e.chunk.js",
-    "static/css/578.1cb7cbb2.chunk.css": "/bubu-test-project/static/css/578.1cb7cbb2.chunk.css",
+    "static/css/578.0f860270.chunk.css": "/bubu-test-project/static/css/578.0f860270.chunk.css",
     "static/js/578.dda10ff2.chunk.js": "/bubu-test-project/static/js/578.dda10ff2.chunk.js",
     "static/js/794.245ae099.chunk.js": "/bubu-test-project/static/js/794.245ae099.chunk.js",
     "static/media/colorLogo.svg": "/bubu-test-project/static/media/colorLogo.419c407e7beebcd515ffeb0e4e0b8dc6.svg",
@@ -23,23 +23,24 @@
     "static/media/like.svg": "/bubu-test-project/static/media/like.9177166212029b632aad27b59bc8c690.svg",
     "static/media/user.svg": "/bubu-test-project/static/media/user.5cb5d90427f13b251241e9bf814d2439.svg",
     "static/media/search.svg": "/bubu-test-project/static/media/search.45c671cfe862bbfebd181722e4585fca.svg",
+    "static/media/inputSearch.svg": "/bubu-test-project/static/media/inputSearch.41676bef644291e4c039067aaec6c1e6.svg",
     "static/media/instagram.svg": "/bubu-test-project/static/media/instagram.a10fde5b40b242503e2d3acd26339a47.svg",
     "static/media/desktopMenu.svg": "/bubu-test-project/static/media/desktopMenu.a0202840fb6d12f60ef3e81a406fb429.svg",
     "static/media/menu.svg": "/bubu-test-project/static/media/menu.78e4be8a210a7603edee4e8e84f7bb51.svg",
-    "main.eb07be7d.css.map": "/bubu-test-project/static/css/main.eb07be7d.css.map",
-    "main.ba996984.js.map": "/bubu-test-project/static/js/main.ba996984.js.map",
-    "788.5f839f05.chunk.css.map": "/bubu-test-project/static/css/788.5f839f05.chunk.css.map",
-    "788.0df9cd71.chunk.js.map": "/bubu-test-project/static/js/788.0df9cd71.chunk.js.map",
+    "main.ba6143e8.css.map": "/bubu-test-project/static/css/main.ba6143e8.css.map",
+    "main.d8f1b8f0.js.map": "/bubu-test-project/static/js/main.d8f1b8f0.js.map",
+    "465.c435f03a.chunk.css.map": "/bubu-test-project/static/css/465.c435f03a.chunk.css.map",
+    "465.8c01be82.chunk.js.map": "/bubu-test-project/static/js/465.8c01be82.chunk.js.map",
     "270.ed769760.chunk.js.map": "/bubu-test-project/static/js/270.ed769760.chunk.js.map",
     "33.aa06554e.chunk.js.map": "/bubu-test-project/static/js/33.aa06554e.chunk.js.map",
-    "946.1cb7cbb2.chunk.css.map": "/bubu-test-project/static/css/946.1cb7cbb2.chunk.css.map",
+    "946.0f860270.chunk.css.map": "/bubu-test-project/static/css/946.0f860270.chunk.css.map",
     "946.15b1a67e.chunk.js.map": "/bubu-test-project/static/js/946.15b1a67e.chunk.js.map",
-    "578.1cb7cbb2.chunk.css.map": "/bubu-test-project/static/css/578.1cb7cbb2.chunk.css.map",
+    "578.0f860270.chunk.css.map": "/bubu-test-project/static/css/578.0f860270.chunk.css.map",
     "578.dda10ff2.chunk.js.map": "/bubu-test-project/static/js/578.dda10ff2.chunk.js.map",
     "794.245ae099.chunk.js.map": "/bubu-test-project/static/js/794.245ae099.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb07be7d.css",
-    "static/js/main.ba996984.js"
+    "static/css/main.ba6143e8.css",
+    "static/js/main.d8f1b8f0.js"
   ]
 }
