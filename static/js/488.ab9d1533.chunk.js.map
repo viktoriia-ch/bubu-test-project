@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/488.ab9d1533.chunk.js","mappings":"iIAIA,UAJgC,WAEhC,C","sources":["pages/ReturnsAndExchangesPage/ReturnsAndExchangesPage.jsx"],"sourcesContent":["const ReturnsAndExchangesPage = () => {\r\n  return;\r\n};\r\n\r\nexport default ReturnsAndExchangesPage;\r\n"],"names":[],"sourceRoot":""}
